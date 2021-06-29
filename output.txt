@@ -1,0 +1,2576 @@
+1. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/android/controllers/inAppViews/pregnancy/viewHolder/TimelineInsightViewHolder.class
+	_Id: 10}
+2. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/adapters/CoachingProgramAdapter$ProgramViewHolder.class
+	_Id: 13}
+3. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/utils/NumbersUtils.class
+	_Id: 18}
+4. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/viewHolders/stepDetails/StepProgramViewHolder.class
+	_Id: 26}
+5. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/promotions/viewHolders/PromotionViewHolder.class
+	_Id: 27}
+6. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/curio/viewHolders/CurioArticleVH.class
+	_Id: 28}
+7. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/adapters/StepDetailsImageCarouselPagerAdapter.class
+	_Id: 38}
+8. {Message: Found: "Viz key start"
+	Description: Found predictable seeds in code
+	_FullPath: ai.viz.notifier-v.1.70.0.apk/ai/viz/notifier/cache/VizImageSeriesCacheManager.class
+	_Id: 22}
+9. {Message: Found: "Viz key start"
+	Description: Found predictable seeds in code
+	_FullPath: ai.viz.notifier.apk/ai/viz/notifier/cache/VizImageSeriesCacheManager.class
+	_Id: 21}
+10. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Device_SM_Flow.class
+	_Id: 2}
+11. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/DeviceCallback.class
+	_Id: 3}
+12. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Device_SM_Flow_old.class
+	_Id: 6}
+13. {Message: Found: "MrAohTi838c8"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 18}
+14. {Message: Found: "class Lcloud/biobeat/HOME_CARE/Cloud_Manager;"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 20}
+15. {Message: Found: "prod"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 21}
+16. {Message: Found: "prod"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 22}
+17. {Message: Found: "02:00:00:00:00:00"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 23}
+18. {Message: Found: "MrAohTi838c8"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 24}
+19. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one-v.6.6.8.apk/com/airstrip/one/ui/patient/PatientListFragment.class
+	_Id: 7}
+20. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.airstrip.one-v.6.6.8.apk/com/airstrip/one/util/HashUtil.class
+	_Id: 15}
+21. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataService.class
+	_Id: 10}
+22. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataVentEngine.class
+	_Id: 12}
+23. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/ui/patient/PatientListFragment.class
+	_Id: 13}
+24. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataService.class
+	_Id: 15}
+25. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/util/HashUtil.class
+	_Id: 21}
+26. {Message: Found: "PBEWithMD5AndDES"
+	Description: Found broken crypto schemes
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 0}
+27. {Message: Found: "PBEWithMD5AndDES"
+	Description: Found broken crypto schemes
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 1}
+28. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/data/models/BpDatabaseItem.class
+	_Id: 19}
+29. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/util/z.class
+	_Id: 21}
+30. {Message: Found: "app.alivecor.com"
+	Description: Found constant salts in code
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/util/z.class
+	_Id: 36}
+31. {Message: Found: "20"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 37}
+32. {Message: Found: "20"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 38}
+33. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 0}
+34. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 4}
+35. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/DataAccess/Entities/ExerciseProgramLevel.class
+	_Id: 9}
+36. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 0}
+37. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 4}
+38. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/DataAccess/Entities/ExerciseProgramLevel.class
+	_Id: 9}
+39. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/MainActivity.class
+	_Id: 0}
+40. {Message: Found: "SHA"
+	Description: Found broken hash functions
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/c.class
+	_Id: 4}
+41. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/l.class
+	_Id: 5}
+42. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 7}
+43. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 9}
+44. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 10}
+45. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 11}
+46. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 12}
+47. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 14}
+48. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 15}
+49. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 16}
+50. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 18}
+51. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 19}
+52. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 21}
+53. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 22}
+54. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/a$b.class
+	_Id: 24}
+55. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 26}
+56. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 28}
+57. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/c/c.class
+	_Id: 29}
+58. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 30}
+59. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 31}
+60. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 32}
+61. {Message: Found: "123456"
+	Description: Used Predictable KeyStore Password
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/m.class
+	_Id: 33}
+1. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/android/controllers/inAppViews/pregnancy/viewHolder/TimelineInsightViewHolder.class
+	_Id: 10}
+2. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/adapters/CoachingProgramAdapter$ProgramViewHolder.class
+	_Id: 13}
+3. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/utils/NumbersUtils.class
+	_Id: 18}
+4. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/viewHolders/stepDetails/StepProgramViewHolder.class
+	_Id: 26}
+5. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/promotions/viewHolders/PromotionViewHolder.class
+	_Id: 27}
+6. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/curio/viewHolders/CurioArticleVH.class
+	_Id: 28}
+7. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: ai.medicus.android.apk/ai/medicus/coaching/adapters/StepDetailsImageCarouselPagerAdapter.class
+	_Id: 38}
+8. {Message: Found: "Viz key start"
+	Description: Found predictable seeds in code
+	_FullPath: ai.viz.notifier-v.1.70.0.apk/ai/viz/notifier/cache/VizImageSeriesCacheManager.class
+	_Id: 22}
+9. {Message: Found: "Viz key start"
+	Description: Found predictable seeds in code
+	_FullPath: ai.viz.notifier.apk/ai/viz/notifier/cache/VizImageSeriesCacheManager.class
+	_Id: 21}
+10. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Device_SM_Flow.class
+	_Id: 2}
+11. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/DeviceCallback.class
+	_Id: 3}
+12. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Device_SM_Flow_old.class
+	_Id: 6}
+13. {Message: Found: "MrAohTi838c8"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 18}
+14. {Message: Found: "class Lcloud/biobeat/HOME_CARE/Cloud_Manager;"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 20}
+15. {Message: Found: "prod"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 21}
+16. {Message: Found: "prod"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 22}
+17. {Message: Found: "02:00:00:00:00:00"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 23}
+18. {Message: Found: "MrAohTi838c8"
+	Description: Used Predictable KeyStore Password
+	_FullPath: cloud.biobeat.HOME_CARE.apk/cloud/biobeat/HOME_CARE/Cloud_Manager.class
+	_Id: 24}
+19. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one-v.6.6.8.apk/com/airstrip/one/ui/patient/PatientListFragment.class
+	_Id: 7}
+20. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.airstrip.one-v.6.6.8.apk/com/airstrip/one/util/HashUtil.class
+	_Id: 15}
+21. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataService.class
+	_Id: 10}
+22. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataVentEngine.class
+	_Id: 12}
+23. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/ui/patient/PatientListFragment.class
+	_Id: 13}
+24. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/training/TrainingDataService.class
+	_Id: 15}
+25. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.airstrip.one.apk/com/airstrip/one/util/HashUtil.class
+	_Id: 21}
+26. {Message: Found: "PBEWithMD5AndDES"
+	Description: Found broken crypto schemes
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 0}
+27. {Message: Found: "PBEWithMD5AndDES"
+	Description: Found broken crypto schemes
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 1}
+28. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/data/models/BpDatabaseItem.class
+	_Id: 19}
+29. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/util/z.class
+	_Id: 21}
+30. {Message: Found: "app.alivecor.com"
+	Description: Found constant salts in code
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/util/z.class
+	_Id: 36}
+31. {Message: Found: "20"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 37}
+32. {Message: Found: "20"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.alivecor.aliveecg.apk/com/alivecor/sync/K.class
+	_Id: 38}
+33. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 0}
+34. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 4}
+35. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach-v.1.6.7.apk/com/analyticamedical/pericoach/DataAccess/Entities/ExerciseProgramLevel.class
+	_Id: 9}
+36. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 0}
+37. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/Notifications/NotificationHelper.class
+	_Id: 4}
+38. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.analyticamedical.pericoach.apk/com/analyticamedical/pericoach/DataAccess/Entities/ExerciseProgramLevel.class
+	_Id: 9}
+39. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/MainActivity.class
+	_Id: 0}
+40. {Message: Found: "SHA"
+	Description: Found broken hash functions
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/c.class
+	_Id: 4}
+41. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/l.class
+	_Id: 5}
+42. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 7}
+43. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 9}
+44. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 10}
+45. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 11}
+46. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 12}
+47. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 14}
+48. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 15}
+49. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 16}
+50. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 18}
+51. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 19}
+52. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 21}
+53. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 22}
+54. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/a$b.class
+	_Id: 24}
+55. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 26}
+56. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 28}
+57. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/c/c.class
+	_Id: 29}
+58. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 30}
+59. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 31}
+60. {Message: Found: "b4iMivyt"
+	Description: Found constant IV in code
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/j.class
+	_Id: 32}
+61. {Message: Found: "123456"
+	Description: Used Predictable KeyStore Password
+	_FullPath: com.ascensia.contour.be.apk/com/ascensia/contour/e/m.class
+	_Id: 33}
+62. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.calgaryscientific.resmdmobile.usa.apk/com/calgaryscientific/resmd/ExamGroupingUtil.class
+	_Id: 0}
+63. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.calgaryscientific.resmdmobile.usa.apk/com/calgaryscientific/resmd/ExamGroupingUtil.class
+	_Id: 1}
+64. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.cardiosyndo.android.apk/com/cardiosyndo/android/MeasuresNotificationReceiver.class
+	_Id: 6}
+65. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.cardiosyndo.android.apk/com/cardiosyndo/android/TreatmentNotificationReceiver.class
+	_Id: 8}
+66. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/managers/PhotoManager.class
+	_Id: 1}
+67. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/MoodPickerView.class
+	_Id: 2}
+68. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/managers/SecureManager.class
+	_Id: 6}
+69. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/PollingResultView.class
+	_Id: 7}
+70. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/activities/fragments/BoostBagFragment.class
+	_Id: 9}
+71. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/PollingResultView.class
+	_Id: 10}
+72. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/MoodPickerView.class
+	_Id: 13}
+73. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/toxins/StartPlayingScreen.class
+	_Id: 14}
+74. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/toxins/GameScreen.class
+	_Id: 15}
+75. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/PollingResultView.class
+	_Id: 17}
+76. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/activities/fragments/BaseDoYouSmokeFragment.class
+	_Id: 19}
+77. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/managers/PopupManager.class
+	_Id: 20}
+78. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/activities/fragments/GoalForTheDayFragment.class
+	_Id: 21}
+79. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/MoodPickerView.class
+	_Id: 22}
+80. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/toxins/GameScreen.class
+	_Id: 28}
+81. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/toxins/managers/ChemicalManager.class
+	_Id: 30}
+82. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/SliderAnimationView.class
+	_Id: 31}
+83. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/dto/GoalForTheDayContent.class
+	_Id: 33}
+84. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/networking/OkHttpAuthenticator.class
+	_Id: 35}
+85. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/toxins/managers/ChemicalManager.class
+	_Id: 36}
+86. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/PollingResultView.class
+	_Id: 37}
+87. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/managers/CrushACravingManager.class
+	_Id: 39}
+88. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/activities/fragments/JournalEntryFragment.class
+	_Id: 42}
+89. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/utilities/PrepToQuitUtils.class
+	_Id: 43}
+90. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/managers/CrushACravingManager.class
+	_Id: 44}
+91. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.carrot.pivot.apk/com/carrot/pivot/views/MoodPickerView.class
+	_Id: 45}
+92. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.cochlear.clientremote.apk/com/cochlear/clientremote/e/g2.class
+	_Id: 2}
+93. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 28}
+94. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/utils/UUIDUtils.class
+	_Id: 35}
+95. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 45}
+96. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 46}
+97. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 47}
+98. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 48}
+99. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 49}
+100. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 50}
+101. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 51}
+102. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 52}
+103. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 53}
+104. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 54}
+105. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 55}
+106. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 56}
+107. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 57}
+108. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 58}
+109. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 59}
+110. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart-v.MTE-P-3.1.0.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 60}
+111. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/utils/UUIDUtils.class
+	_Id: 19}
+112. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 28}
+113. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 39}
+114. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 40}
+115. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 41}
+116. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 42}
+117. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 43}
+118. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 44}
+119. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 45}
+120. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 46}
+121. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 47}
+122. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 48}
+123. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 49}
+124. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 50}
+125. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 51}
+126. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 52}
+127. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 53}
+128. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.coherohealth.breathesmart.apk/com/coherohealth/breathesmart/data/encryption/CryptoUtil.class
+	_Id: 54}
+129. {Message: Found: "AES/$Mode/$PearlPadding"
+	Description: Found constant IV in code
+	_FullPath: com.colorimetrix.pearl.apk/com/colorimetrix/security/SecureKeyStorage23.class
+	_Id: 35}
+130. {Message: Found: "AES21/$Mode/$PearlPadding"
+	Description: Found constant IV in code
+	_FullPath: com.colorimetrix.pearl.apk/com/colorimetrix/security/SecureKeyStorage18.class
+	_Id: 36}
+131. {Message: Found: "http://10.0.2.2:5000/"
+	Description: Used HTTP Protocol
+	_FullPath: com.colorimetrix.pearl.apk/com/colorimetrix/remote/RegistrationClient$Companion.class
+	_Id: 37}
+132. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.companionmedical.inpen.apk/com/companionmedical/penble_mediator_service/a/f.class
+	_Id: 0}
+133. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.companionmedical.inpen.apk/com/companionmedical/d.class
+	_Id: 15}
+134. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/cgm/tx/mediator/e.class
+	_Id: 0}
+135. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/cgm/activities/alertdialogs/DialogDemoActivity.class
+	_Id: 5}
+136. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/cgm/activities/alertdialogs/DialogDemoActivity.class
+	_Id: 9}
+137. {Message: Found: "18"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 17}
+138. {Message: Found: "-43"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 18}
+139. {Message: Found: "54"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 19}
+140. {Message: Found: "26"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 20}
+141. {Message: Found: "33"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 21}
+142. {Message: Found: "77"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 22}
+143. {Message: Found: "53"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 23}
+144. {Message: Found: "42"
+	Description: Found constant IV in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 24}
+145. {Message: Found: "18"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 25}
+146. {Message: Found: "-43"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 26}
+147. {Message: Found: "54"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 27}
+148. {Message: Found: "26"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 28}
+149. {Message: Found: "33"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 29}
+150. {Message: Found: "77"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 30}
+151. {Message: Found: "53"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 31}
+152. {Message: Found: "42"
+	Description: Found constant salts in code
+	_FullPath: com.dexcom.cgm.apk/com/dexcom/b/c.class
+	_Id: 32}
+153. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.dexcom.g6.apk/com/dexcom/cgm/tx/mediator/b.class
+	_Id: 0}
+154. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.dexcom.g6.apk/com/dexcom/cgm/activities/alertdialogs/DialogDemoActivity.class
+	_Id: 4}
+155. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.dexcom.g6.apk/com/dexcom/cgm/activities/alertdialogs/DialogDemoActivity.class
+	_Id: 10}
+156. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.dynosense.dynolife.apk/com/dynosense/android/dynohome/dyno/statistics/HealthStatisticsDetailFragment.class
+	_Id: 21}
+157. {Message: Found: "http://l.yimg.com/a/i/us/we/52/"
+	Description: Used HTTP Protocol
+	_FullPath: com.dynosense.dynolife.apk/com/dynosense/android/dynohome/model/network/weather/WeatherInfo.class
+	_Id: 83}
+158. {Message: Found: "http://l.yimg.com/a/i/us/we/52/"
+	Description: Used HTTP Protocol
+	_FullPath: com.dynosense.dynolife.apk/com/dynosense/android/dynohome/model/network/weather/WeatherInfo$ForecastInfo.class
+	_Id: 91}
+159. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.eyeque.eyeque-v.2.2.5.apk/com/eyeque/eyeque/Pattern.class
+	_Id: 1}
+160. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.eyeque.eyeque-v.2.2.5.apk/com/eyeque/eyeque/Pattern.class
+	_Id: 9}
+161. {Message: Found: "http://54.191.245.62:8080/eyecloud/api/subjects?access_token=e46cghc52pqd8kvgqmv8ovsi1ufcfetg"
+	Description: Used HTTP Protocol
+	_FullPath: com.eyeque.eyeque-v.2.2.5.apk/com/eyeque/eyeque/StartActivity$RetrieveSubjectTask.class
+	_Id: 31}
+162. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.eyeque.eyeque.apk/com/eyeque/eyeque/Pattern.class
+	_Id: 1}
+163. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.eyeque.eyeque.apk/com/eyeque/eyeque/Pattern.class
+	_Id: 9}
+164. {Message: Found: "http://54.191.245.62:8080/eyecloud/api/subjects?access_token=e46cghc52pqd8kvgqmv8ovsi1ufcfetg"
+	Description: Used HTTP Protocol
+	_FullPath: com.eyeque.eyeque.apk/com/eyeque/eyeque/StartActivity$RetrieveSubjectTask.class
+	_Id: 31}
+165. {Message: Found: "AES/ECB/PKCS5PADDING"
+	Description: Found broken crypto schemes
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 0}
+166. {Message: Found: "AES/ECB/PKCS5Padding"
+	Description: Found broken crypto schemes
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 1}
+167. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/io/network/request/FlickrRequestHandler.class
+	_Id: 2}
+168. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/utils/RandomImageGenerator.class
+	_Id: 3}
+169. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/baseble/commands/UniqueIdCommand.class
+	_Id: 7}
+170. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/utils/engagement/EngagementScreenItemsHelper.class
+	_Id: 8}
+171. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/googlefit/ActivityGoalsJobService.class
+	_Id: 19}
+172. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/googlefit/ActivityGoalsJobServiceCompat.class
+	_Id: 20}
+173. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.getqardio.android-v.1.33.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 28}
+174. {Message: Found: "AES/ECB/PKCS5PADDING"
+	Description: Found broken crypto schemes
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 0}
+175. {Message: Found: "AES/ECB/PKCS5Padding"
+	Description: Found broken crypto schemes
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 1}
+176. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/io/network/request/FlickrRequestHandler.class
+	_Id: 2}
+177. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/utils/RandomImageGenerator.class
+	_Id: 3}
+178. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/baseble/commands/UniqueIdCommand.class
+	_Id: 7}
+179. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/utils/engagement/EngagementScreenItemsHelper.class
+	_Id: 8}
+180. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/googlefit/ActivityGoalsJobService.class
+	_Id: 18}
+181. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/googlefit/ActivityGoalsJobServiceCompat.class
+	_Id: 19}
+182. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.getqardio.android.apk/com/getqardio/android/utils/CipherManager.class
+	_Id: 27}
+183. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/gkmodels/GKProvider.class
+	_Id: 1}
+184. {Message: Found: "DES"
+	Description: Found broken crypto schemes
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/metersync/medtronic/MedtronicDeviceCommunication.class
+	_Id: 2}
+185. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/gkmodels/GKProvider.class
+	_Id: 5}
+186. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/logbook/datasource/C4cArticleDataSource.class
+	_Id: 9}
+187. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/metersync/MeterSyncProtocol.class
+	_Id: 14}
+188. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/metersync/audio/AudioDeviceCommunication.class
+	_Id: 16}
+189. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/meter/TestCgm.class
+	_Id: 21}
+190. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/metersync/MeterSyncProtocol.class
+	_Id: 28}
+191. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/meter/TestMeter.class
+	_Id: 29}
+192. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/meter/TestMeter$DataTimerTask.class
+	_Id: 32}
+193. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/servertasks/retrofit2/BaseTask.class
+	_Id: 55}
+194. {Message: Found: "SHA"
+	Description: Found broken hash functions
+	_FullPath: com.glooko.logbook.apk/com/glooko/logbook/application/MyApplication.class
+	_Id: 66}
+195. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/metersync/MicrocontrollerCommunicator.class
+	_Id: 67}
+196. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 68}
+197. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 69}
+198. {Message: Found: "-27"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 70}
+199. {Message: Found: "-127"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 71}
+200. {Message: Found: "-43"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 72}
+201. {Message: Found: "-118"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 73}
+202. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 74}
+203. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 75}
+204. {Message: Found: "60"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 76}
+205. {Message: Found: "-26"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 77}
+206. {Message: Found: "-121"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 78}
+207. {Message: Found: "79"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 79}
+208. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 80}
+209. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 81}
+210. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 82}
+211. {Message: Found: "110"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 83}
+212. {Message: Found: "93"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 84}
+213. {Message: Found: "-117"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 85}
+214. {Message: Found: "-11"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 86}
+215. {Message: Found: "-114"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 87}
+216. {Message: Found: "-89"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 88}
+217. {Message: Found: "-36"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 89}
+218. {Message: Found: "-32"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 90}
+219. {Message: Found: "109"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 91}
+220. {Message: Found: "108"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 92}
+221. {Message: Found: "82"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 93}
+222. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 94}
+223. {Message: Found: "-24"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 95}
+224. {Message: Found: "123"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 96}
+225. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 97}
+226. {Message: Found: "-8"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 98}
+227. {Message: Found: "109"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 99}
+228. {Message: Found: "109"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 100}
+229. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 101}
+230. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 102}
+231. {Message: Found: "21"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 103}
+232. {Message: Found: "-112"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 104}
+233. {Message: Found: "44"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 105}
+234. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 106}
+235. {Message: Found: "44"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 107}
+236. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/EncryptionUtility.class
+	_Id: 108}
+237. {Message: Found: "-74"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 109}
+238. {Message: Found: "90"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 110}
+239. {Message: Found: "-75"
+	Description: Found constant IV in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/GlookoConstants.class
+	_Id: 111}
+240. {Message: Found: "PreferencesGlooko123!Password"
+	Description: Found constant salts in code
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/utilities/storage/SharedPreferencesUtility.class
+	_Id: 112}
+241. {Message: Found: "http://www.novo-pi.com/"
+	Description: Used HTTP Protocol
+	_FullPath: com.glooko.logbook.apk/com/glooko/logbook/ui/dialog/IsiPiDialogFragment.class
+	_Id: 117}
+242. {Message: Found: "http://localhost/"
+	Description: Used HTTP Protocol
+	_FullPath: com.glooko.logbook.apk/com/glooko/library/mock/MockCall.class
+	_Id: 118}
+243. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.h2sync.android.h2syncapp.apk/com/h2sync/h2synclib/ble/b/a.class
+	_Id: 0}
+244. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.h2sync.android.h2syncapp.apk/com/h2sync/h2synclib/a/a/b.class
+	_Id: 1}
+245. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.h2sync.android.h2syncapp.apk/com/h2sync/h2synclib/a/a/b.class
+	_Id: 2}
+246. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.h2sync.android.h2syncapp.apk/com/h2sync/h2synclib/ble/a/bj.class
+	_Id: 6}
+247. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/winzipaes/impl/AESUtilsJCA.class
+	_Id: 0}
+248. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/TimeCheck2.class
+	_Id: 9}
+249. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/TimeCheck1.class
+	_Id: 11}
+250. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 13}
+251. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 14}
+252. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 15}
+253. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 16}
+254. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 17}
+255. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 18}
+256. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 19}
+257. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 20}
+258. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 21}
+259. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 22}
+260. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 23}
+261. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 24}
+262. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 25}
+263. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 26}
+264. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 27}
+265. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/AES256Cipher.class
+	_Id: 28}
+266. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 30}
+267. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 31}
+268. {Message: Found: "-1L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/Utils.class
+	_Id: 33}
+269. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 34}
+270. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 35}
+271. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 36}
+272. {Message: Found: "-1L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/Utils.class
+	_Id: 37}
+273. {Message: Found: "Healcerion_2012_&u@75t-2}s4fxlN4"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/hermionedroid_ce/FirstActivity.class
+	_Id: 38}
+274. {Message: Found: "1048576L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 39}
+275. {Message: Found: "1048576L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 40}
+276. {Message: Found: "Early OB"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/UserPreset.class
+	_Id: 41}
+277. {Message: Found: "0L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 42}
+278. {Message: Found: "Bladder"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/UserPreset.class
+	_Id: 44}
+279. {Message: Found: "0L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 45}
+280. {Message: Found: "0L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/Utils.class
+	_Id: 46}
+281. {Message: Found: "FAST"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/UserPreset.class
+	_Id: 47}
+282. {Message: Found: "0L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 48}
+283. {Message: Found: "Healcerion_2012_&u@75t-2}s4fxlN4"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 49}
+284. {Message: Found: "0L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/utils/Utils.class
+	_Id: 50}
+285. {Message: Found: "1048576L"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/LoginActivity.class
+	_Id: 51}
+286. {Message: Found: "Late OB"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/UserPreset.class
+	_Id: 52}
+287. {Message: Found: "1"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 53}
+288. {Message: Found: "0"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 54}
+289. {Message: Found: "Healcerion_2012_&u@75t-2}s4fxlN4"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/hermionedroid_ko/FirstActivity.class
+	_Id: 55}
+290. {Message: Found: "GYN"
+	Description: Found constant salts in code
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/UserPreset.class
+	_Id: 56}
+291. {Message: Found: "100"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 58}
+292. {Message: Found: "100"
+	Description: Used < 1000 iteration for PBE
+	_FullPath: com.healcerion.hermionedroid_ce.apk/com/healcerion/android/hermione/common/GlobalVars.class
+	_Id: 59}
+293. {Message: Found: "http://192.168.1.1"
+	Description: Used HTTP Protocol
+	_FullPath: com.hmicro.cardiac-v.1.10.7.apk/com/hmicro/cardiac/http/RetrofitInterface.class
+	_Id: 16}
+294. {Message: Found: "http://192.168.1.1"
+	Description: Used HTTP Protocol
+	_FullPath: com.hmicro.cardiac.apk/com/hmicro/cardiac/http/RetrofitInterface.class
+	_Id: 16}
+295. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.ideallife.healthtablet.apk/com/ideallife/models/util/RandomString.class
+	_Id: 2}
+296. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.ideallife.healthtablet.apk/com/ideallife/healthtablet/util/l.class
+	_Id: 3}
+297. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.ideallife.healthtablet.apk/com/ideallife/models/util/Strings.class
+	_Id: 9}
+298. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.imagewareinc.pillphoneprod-v.2.0.1.15.apk/com/imagewareinc/pillphone/util/ShaUtils.class
+	_Id: 23}
+299. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.imagewareinc.pillphoneprod.apk/com/imagewareinc/pillphone/util/ShaUtils.class
+	_Id: 23}
+300. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.inuihealth.paragon.apk/com/inuihealth/paragon/activity/DebugResultsGeneratorActivity.class
+	_Id: 0}
+301. {Message: Found: "http://cloud-dev04.aws.scanadu.net/data3/flovis_uploads/archives/"
+	Description: Used HTTP Protocol
+	_FullPath: com.inuihealth.paragon.apk/com/inuihealth/paragon/activity/DebugRegressionTestActivity.class
+	_Id: 2}
+302. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.isage.apk/com/isage/util/Crypto.class
+	_Id: 21}
+303. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.isage.apk/com/isage/datacontainer/UserModel.class
+	_Id: 25}
+304. {Message: Found: "12345"
+	Description: Found constant IV in code
+	_FullPath: com.isage.apk/com/isage/datacontainer/UserModel.class
+	_Id: 28}
+305. {Message: Cause: Used default key size
+	Description: Used export grade public Key
+	_FullPath: com.kaiahealth.app.apk/com/kaiahealth/app/utils/AppKeyStore.class
+	_Id: 0}
+306. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kaiahealth.app.apk/com/kaiahealth/app/view/trainings/CompletedTrainingActivity.class
+	_Id: 2}
+307. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kaiahealth.app.apk/com/kaiahealth/app/view/trainings/physTrainingStates/StateExerciseExecuting.class
+	_Id: 21}
+308. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kaiahealth.app.apk/com/kaiahealth/app/view/trainings/physTrainingStates/StateTrainingFinishing.class
+	_Id: 25}
+309. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.kaiahealth.app.apk/com/kaiahealth/kcc/utils/u.class
+	_Id: 44}
+310. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/thermometer/stick/calibration/circle_progress_bar/CircleProgressBar$Bubbles.class
+	_Id: 0}
+311. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/conversation_model/model/ConversationMessage.class
+	_Id: 1}
+312. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/custom_themes/ThemeManager.class
+	_Id: 4}
+313. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/thermometer/stick/reading/bubbles_game/ParticleSystem.class
+	_Id: 9}
+314. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/thermometer/stick/reading/bubbles_game/Camera.class
+	_Id: 11}
+315. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/readout/ReadoutFragment.class
+	_Id: 13}
+316. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/thermometer/stick/reading/bubbles_game/Particle.class
+	_Id: 19}
+317. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.kinsa.apk/com/kinsa/features/onboarding_conversation/model/ConversationMessage.class
+	_Id: 21}
+318. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.kinsa.apk/com/kinsa/utils/KinsaUtil.class
+	_Id: 47}
+319. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/crypto/Crypto.class
+	_Id: 2}
+320. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/crypto/Crypto.class
+	_Id: 3}
+321. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/slidingpane/notifications/utils/generator/InboxItemGenerator.class
+	_Id: 9}
+322. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/abtesting/ABTestingManager.class
+	_Id: 11}
+323. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/slidingpane/notifications/utils/generator/InboxItemGenerator.class
+	_Id: 13}
+324. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/slidingpane/notifications/utils/generator/InboxItemGenerator.class
+	_Id: 15}
+325. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/utils/DarioUtils.class
+	_Id: 17}
+326. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/pedometer/data/PedoRandomDataLoadTask.class
+	_Id: 31}
+327. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/communication/sync/pedo/PedoSynchronizer.class
+	_Id: 33}
+328. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/slidingpane/notifications/utils/generator/InboxItemGenerator.class
+	_Id: 36}
+329. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/pedometer/graph/PedoGraphHelper.class
+	_Id: 41}
+330. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/inapp/popup/tool/InAppUtils.class
+	_Id: 42}
+331. {Message: Found: "SHA"
+	Description: Found broken hash functions
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/utils/DarioUtils.class
+	_Id: 91}
+332. {Message: Found: "http://"
+	Description: Used HTTP Protocol
+	_FullPath: com.labstyle.darioandroid.apk/com/labstyle/darioandroid/rest/RestApi.class
+	_Id: 104}
+333. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.lifescan.reveal-v.5.1.apk/com/lifescan/reveal/application/e/a.class
+	_Id: 4}
+334. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.lifescan.reveal-v.5.1.apk/com/lifescan/reveal/services/a1.class
+	_Id: 25}
+335. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.lifescan.reveal-v.5.1.apk/com/lifescan/reveal/services/AuthenticationService.class
+	_Id: 26}
+336. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.livongo.lvmobility.apk/com/livongo/lvmobility/utils/MathUtils.class
+	_Id: 1}
+337. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.livongo.lvmobility.apk/com/livongo/lvmobility/l/i$q.class
+	_Id: 9}
+338. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.livongo.lvmobility.apk/com/livongo/lvmobility/homescreen/ao.class
+	_Id: 20}
+339. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.livongo.lvmobility.apk/com/livongo/lvmobility/hypertension/g.class
+	_Id: 23}
+340. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.medtronic.diabetes.guardianconnect.apk/com/medtronic/guardian/storage/a/m.class
+	_Id: 13}
+341. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature-v.1.3.21.apk/com/omesoft/util/y.class
+	_Id: 0}
+342. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature-v.1.3.21.apk/com/omesoft/util/y.class
+	_Id: 1}
+343. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature-v.1.3.21.apk/com/omesoft/util/l.class
+	_Id: 3}
+344. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.omesoft.temperature-v.1.3.21.apk/com/omesoft/util/n.class
+	_Id: 4}
+345. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature.apk/com/omesoft/util/y.class
+	_Id: 0}
+346. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature.apk/com/omesoft/util/y.class
+	_Id: 1}
+347. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.omesoft.temperature.apk/com/omesoft/util/l.class
+	_Id: 3}
+348. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.omesoft.temperature.apk/com/omesoft/util/n.class
+	_Id: 4}
+349. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.oncoassist.core.apk/com/oncoassist/vo/User.class
+	_Id: 22}
+350. {Message: Found: "http://tinyurl.com/"
+	Description: Used HTTP Protocol
+	_FullPath: com.oncoassist.core.apk/com/oncoassist/view/VideoPlayerActivity.class
+	_Id: 82}
+351. {Message: Found: Constant "AWS4"
+	Description: Used constant keys in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/util/a.class
+	_Id: 18}
+352. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 19}
+353. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 20}
+354. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 21}
+355. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 22}
+356. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 23}
+357. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 24}
+358. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 25}
+359. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 26}
+360. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 27}
+361. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 28}
+362. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 29}
+363. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 30}
+364. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 31}
+365. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 32}
+366. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 33}
+367. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.proteus.discover.apk/com/proteus/service/user/account/b.class
+	_Id: 34}
+368. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.qompium.fibricheck-v.1.9.0.apk/com/qompium/fibricheck/util/FileUtils.class
+	_Id: 7}
+369. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.qompium.fibricheck-v.1.9.0.apk/com/qompium/fibricheck/util/FileUtils.class
+	_Id: 21}
+370. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.qompium.fibricheck-v.1.9.0.apk/com/qompium/fibricheck/util/CryptoUtil.class
+	_Id: 58}
+371. {Message: Found: "http://api.fibricheck.com"
+	Description: Used HTTP Protocol
+	_FullPath: com.qompium.fibricheck-v.1.9.0.apk/com/qompium/fibricheck/retrofit/MyRetrofitBuilder.class
+	_Id: 74}
+372. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.qompium.fibricheck.apk/com/qompium/fibricheck/util/FileUtils.class
+	_Id: 7}
+373. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.qompium.fibricheck.apk/com/qompium/fibricheck/util/FileUtils.class
+	_Id: 9}
+374. {Message: Found: "http://api.fibricheck.com"
+	Description: Used HTTP Protocol
+	_FullPath: com.qompium.fibricheck.apk/com/qompium/fibricheck/retrofit/MyRetrofitBuilder.class
+	_Id: 33}
+375. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.resmed.airmini.apk/com/resmed/mon/ipc/rmon/a/e.class
+	_Id: 0}
+376. {Message: Found: "AES/ECB/PKCS5Padding"
+	Description: Found broken crypto schemes
+	_FullPath: com.roche.acconnect.apk/com/roche/bluenileupgraderandroidcomponent/Encrypter.class
+	_Id: 0}
+377. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.roche.acconnect.apk/com/roche/bluenileupgraderandroidcomponent/Encrypter.class
+	_Id: 7}
+378. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/HttpHelper.class
+	_Id: 2}
+379. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/CryptoHelper.class
+	_Id: 3}
+380. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/StringUtils.class
+	_Id: 5}
+381. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/SecurePreferences.class
+	_Id: 10}
+382. {Message: Found: Constant "pump_flow_reminder"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 13}
+383. {Message: Found: Constant "pump_flow_reminder"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/treatment/profile/TreatmentAbstract.class
+	_Id: 15}
+384. {Message: Found: Constant "pref_email"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SplashScreenActivity.class
+	_Id: 17}
+385. {Message: Found: Constant "blockingTimeLeft"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/fragments/PinCodeFragment.class
+	_Id: 19}
+386. {Message: Found: Constant "basalAutoAdaptationDone"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 22}
+387. {Message: Found: Constant "application_already_launched"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 23}
+388. {Message: Found: Constant "pref_password"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/AuthenticationActivity.class
+	_Id: 25}
+389. {Message: Found: Constant "update_datetime_message"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/UpdateApplicationManager.class
+	_Id: 26}
+390. {Message: Found: Constant "license_expiration_alert_three_months"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 29}
+391. {Message: Found: Constant "license_expiration_alert_one_month"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 30}
+392. {Message: Found: Constant "preferencesDeviceId"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/Network.class
+	_Id: 32}
+393. {Message: Found: Constant "update_build_number"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 33}
+394. {Message: Found: Constant "diabeo_background_datetime"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 35}
+395. {Message: Found: Constant "lastPreloadPumpFlowDate"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/LogBookPagerFragment.class
+	_Id: 36}
+396. {Message: Found: Constant "license_expiration_alert_two_weeks"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 40}
+397. {Message: Found: Constant "pump_flow_reminder"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/logic/BasalAutoAdaptation.class
+	_Id: 41}
+398. {Message: Found: Constant "update_build_number"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/UpdateApplicationManager.class
+	_Id: 42}
+399. {Message: Found: Constant "basalAutoAdaptationDone"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 44}
+400. {Message: Found: Constant "update_marketing_number"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/ui/AlertDialogHelper.class
+	_Id: 46}
+401. {Message: Found: Constant "basalAutoAdaptationInitialTreatmentSynchroId"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 47}
+402. {Message: Found: Constant "preferencesDeviceId"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/ResetTask.class
+	_Id: 48}
+403. {Message: Found: Constant "lastPreloadPumpFlowDate"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/LogBookPagerFragment.class
+	_Id: 49}
+404. {Message: Found: Constant "0"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/SecurePreferences.class
+	_Id: 55}
+405. {Message: Found: Constant "basalAutoAdaptationInitialTreatmentSynchroId"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 56}
+406. {Message: Found: Constant "preferencesDeviceId"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/Network.class
+	_Id: 57}
+407. {Message: Found: Constant "numberOfAttempts"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/fragments/PinCodeFragment.class
+	_Id: 60}
+408. {Message: Found: Constant "pref_email"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/AuthenticationActivity.class
+	_Id: 61}
+409. {Message: Found: Constant "pref_password"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SplashScreenActivity.class
+	_Id: 62}
+410. {Message: Found: Constant "application_already_launched"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SuggestCodeActivity.class
+	_Id: 63}
+411. {Message: Found: Constant "application_already_launched"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 65}
+412. {Message: Found: Constant "license_expiration_alert_one_week"
+	Description: Used constant keys in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 66}
+413. {Message: Found: "pump_flow_reminder"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 67}
+414. {Message: Found: "pump_flow_reminder"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/treatment/profile/TreatmentAbstract.class
+	_Id: 69}
+415. {Message: Found: "pref_email"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SplashScreenActivity.class
+	_Id: 71}
+416. {Message: Found: "blockingTimeLeft"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/fragments/PinCodeFragment.class
+	_Id: 73}
+417. {Message: Found: "basalAutoAdaptationDone"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 76}
+418. {Message: Found: "application_already_launched"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 77}
+419. {Message: Found: "pref_password"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/AuthenticationActivity.class
+	_Id: 79}
+420. {Message: Found: "update_datetime_message"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/UpdateApplicationManager.class
+	_Id: 80}
+421. {Message: Found: "license_expiration_alert_three_months"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 83}
+422. {Message: Found: "license_expiration_alert_one_month"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 84}
+423. {Message: Found: "preferencesDeviceId"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/Network.class
+	_Id: 86}
+424. {Message: Found: "update_build_number"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 87}
+425. {Message: Found: "diabeo_background_datetime"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 89}
+426. {Message: Found: "lastPreloadPumpFlowDate"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/LogBookPagerFragment.class
+	_Id: 90}
+427. {Message: Found: "license_expiration_alert_two_weeks"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 94}
+428. {Message: Found: "pump_flow_reminder"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/logic/BasalAutoAdaptation.class
+	_Id: 95}
+429. {Message: Found: "update_build_number"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/UpdateApplicationManager.class
+	_Id: 96}
+430. {Message: Found: "basalAutoAdaptationDone"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 98}
+431. {Message: Found: "update_marketing_number"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/ui/AlertDialogHelper.class
+	_Id: 100}
+432. {Message: Found: "basalAutoAdaptationInitialTreatmentSynchroId"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 101}
+433. {Message: Found: "preferencesDeviceId"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/ResetTask.class
+	_Id: 102}
+434. {Message: Found: "lastPreloadPumpFlowDate"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/LogBookPagerFragment.class
+	_Id: 103}
+435. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/SecurePreferences.class
+	_Id: 109}
+436. {Message: Found: "basalAutoAdaptationInitialTreatmentSynchroId"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/logbook/BasalAutoAdaptationLoader.class
+	_Id: 110}
+437. {Message: Found: "preferencesDeviceId"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/Network.class
+	_Id: 111}
+438. {Message: Found: "numberOfAttempts"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/fragments/PinCodeFragment.class
+	_Id: 114}
+439. {Message: Found: "pref_email"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/AuthenticationActivity.class
+	_Id: 115}
+440. {Message: Found: "pref_password"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SplashScreenActivity.class
+	_Id: 116}
+441. {Message: Found: "application_already_launched"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/activities/SuggestCodeActivity.class
+	_Id: 117}
+442. {Message: Found: "application_already_launched"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 119}
+443. {Message: Found: "license_expiration_alert_one_week"
+	Description: Found constant IV in code
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/Diabeo.class
+	_Id: 120}
+444. {Message: Found: "Demo2012Inter"
+	Description: Used Predictable KeyStore Password
+	_FullPath: com.sanofi.fr.diabeoprod.apk/com/sanofi/fr/diabeoprod/utils/HttpHelper.class
+	_Id: 121}
+445. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.sanofi.us.MyDoseCoach.android.apk/com/sanofi/us/MyDoseCoach/android/g/f.class
+	_Id: 9}
+446. {Message: Found: "http://10.0.0.100/SmartheartAndroid/"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart-v.2.6.0.apk/com/shl/Smartheart/tb.class
+	_Id: 11}
+447. {Message: Found: "http://10.0.0.100/SmartheartAndroid/"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart-v.2.6.0.apk/com/shl/Smartheart/Ha.class
+	_Id: 12}
+448. {Message: Found: "http://"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart-v.2.6.0.apk/com/shl/Smartheart/I.class
+	_Id: 13}
+449. {Message: Found: "http://10.0.0.100/SmartheartAndroid/"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart.apk/com/shl/Smartheart/tb.class
+	_Id: 11}
+450. {Message: Found: "http://10.0.0.100/SmartheartAndroid/"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart.apk/com/shl/Smartheart/Ha.class
+	_Id: 12}
+451. {Message: Found: "http://"
+	Description: Used HTTP Protocol
+	_FullPath: com.shl.Smartheart.apk/com/shl/Smartheart/I.class
+	_Id: 13}
+452. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 1}
+453. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 42}
+454. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 43}
+455. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 44}
+456. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 45}
+457. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 46}
+458. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 47}
+459. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 48}
+460. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 49}
+461. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 50}
+462. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 51}
+463. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 52}
+464. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 53}
+465. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 54}
+466. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 55}
+467. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 56}
+468. {Message: Found: "0"
+	Description: Found constant IV in code
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/commProxy/framework/services/b/a.class
+	_Id: 57}
+469. {Message: Found: "notsecret"
+	Description: Used Predictable KeyStore Password
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/patientApp/android/framework/platformDelegates/AndroidFileSystemDelegate.class
+	_Id: 60}
+470. {Message: Found: "http://54.187.4.88/"
+	Description: Used HTTP Protocol
+	_FullPath: com.sjm.crmd.patientApp_Android_TUV.apk/com/sjm/patientApp/core/framework/services/webServices/WebServices.class
+	_Id: 65}
+471. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.smartinhalerlive.apk/com/smartinhalerlive/app/common/analytics/data/encryption/EncryptionAgentImpl.class
+	_Id: 4}
+472. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.smartinhalerlive.apk/com/smartinhalerlive/app/feature/usage/overview/domain/GraphHelper.class
+	_Id: 5}
+473. {Message: Found: "md5"
+	Description: Found broken hash functions
+	_FullPath: com.smartinhalerlive.apk/com/smartinhalerlive/app/feature/prescription/common/domain/helper/Md5Digest.class
+	_Id: 20}
+474. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.smartinhalerlive.apk/com/smartinhalerlive/app/common/analytics/data/encryption/EncryptionAgentImpl.class
+	_Id: 22}
+475. {Message: Found: "md5"
+	Description: Found broken hash functions
+	_FullPath: com.smartinhalerlive.apk/com/smartinhalerlive/app/common/data/helper/Md5HashUtil$Companion.class
+	_Id: 36}
+476. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.smartmio.apk/com/smartmio/util/MathUtils.class
+	_Id: 1}
+477. {Message: Found: Constant "gqL3HU2oQ0Qjh1vI"
+	Description: Used constant keys in code
+	_FullPath: com.smartmio.apk/com/smartmio/util/HashUtils.class
+	_Id: 32}
+478. {Message: Found: Constant "a48313dca872819f96a63b9f93ac3245"
+	Description: Used constant keys in code
+	_FullPath: com.smartmio.apk/com/smartmio/util/HashUtils.class
+	_Id: 33}
+479. {Message: Found: "gqL3HU2oQ0Qjh1vI"
+	Description: Found constant IV in code
+	_FullPath: com.smartmio.apk/com/smartmio/util/HashUtils.class
+	_Id: 34}
+480. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.theranica.nerviomigra.apk/com/theranica/nerviomigra/BlueTooth/RandomProgram.class
+	_Id: 6}
+481. {Message: Found: "SHA"
+	Description: Found broken hash functions
+	_FullPath: com.theranica.nerviomigra.apk/com/theranica/nerviomigra/activities/LoginActivity.class
+	_Id: 20}
+482. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.theranica.nerviomigra.apk/com/theranica/nerviomigra/BlueTooth/ProgramsFileParser.class
+	_Id: 22}
+483. {Message: Found: "sianosch"
+	Description: Used Predictable KeyStore Password
+	_FullPath: com.theranica.nerviomigra.apk/com/theranica/nerviomigra/BlueTooth/ServerConnection$SslHttpClient.class
+	_Id: 24}
+484. {Message: Found: "http://think.triowave.net/individualver-debug.apk"
+	Description: Used HTTP Protocol
+	_FullPath: com.triowave.triouser.apk/com/triowave/triouser/activity/HttpsRequestActivity.class
+	_Id: 3}
+485. {Message: Found: "http://192.168.16.37:8000"
+	Description: Used HTTP Protocol
+	_FullPath: com.triowave.triouser.apk/com/triowave/triouser/utils/HttpsRequest$ThreadHttp.class
+	_Id: 4}
+486. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.tytocare.apk/com/tytocare/ui/widget/ColorGenerator.class
+	_Id: 18}
+487. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/smdfcore/synchronization/service/ServerGateway.class
+	_Id: 4}
+488. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/smdfcore/utils/helpers/HashHelper.class
+	_Id: 12}
+489. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/smdfcore/utils/helpers/HashHelper.class
+	_Id: 13}
+490. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/smdfcore/utils/helpers/HashHelper.class
+	_Id: 14}
+491. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/smdfcore/utils/helpers/HashHelper.class
+	_Id: 16}
+492. {Message: Found: Constant "fifteenDaysFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 18}
+493. {Message: Found: Constant "temporaryAccessCode"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 19}
+494. {Message: Found: Constant "secondTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 20}
+495. {Message: Found: Constant "firstTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 21}
+496. {Message: Found: Constant "preferencesDateOfTheMostRecentArticle"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/mycare/data/ArticlesSerializer.class
+	_Id: 22}
+497. {Message: Found: Constant "isUserLocked"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/common/data/AccessCodeHandler.class
+	_Id: 23}
+498. {Message: Found: Constant "isUserLocked"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/common/data/AccessCodeHandler.class
+	_Id: 24}
+499. {Message: Found: Constant "isUserLocked"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/platform/GreenjayApplication.class
+	_Id: 25}
+500. {Message: Found: Constant "preferencesDateOfTheMostRecentArticle"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/mycare/data/ArticlesSerializer.class
+	_Id: 26}
+501. {Message: Found: Constant "preferencesDisplayFailedSynchronizationMessage"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 27}
+502. {Message: Found: Constant "preferencesIsFirstLaunch"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 28}
+503. {Message: Found: Constant "firstAuthentication"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 29}
+504. {Message: Found: Constant "secondTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 30}
+505. {Message: Found: Constant "preferencesDisplayFailedSynchronizationMessage"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 31}
+506. {Message: Found: Constant "blockingStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 32}
+507. {Message: Found: Constant "preferencesHasOstomy"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/mycare/data/GreenjayMyCareRepository.class
+	_Id: 33}
+508. {Message: Found: Constant "preferencesIsFirstLaunch"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 34}
+509. {Message: Found: Constant "preferencesDailyFailedSynchronization"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 35}
+510. {Message: Found: Constant "numberReminder"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 36}
+511. {Message: Found: Constant "blockingStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/main/data/GreenjayMainRepository.class
+	_Id: 37}
+512. {Message: Found: Constant "preferencesDateSynchronizationFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 38}
+513. {Message: Found: Constant "secondTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 39}
+514. {Message: Found: Constant "userEmail"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 40}
+515. {Message: Found: Constant "preferencesIsFirstLaunch"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 41}
+516. {Message: Found: Constant "BloodPressureMode"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/bloodpressure/data/GreenjayBloodPressureRepository.class
+	_Id: 42}
+517. {Message: Found: Constant "preferencesIsFirstSynchronizationFinished"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 43}
+518. {Message: Found: Constant "lastFailedTime"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 44}
+519. {Message: Found: Constant "userEmail"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 45}
+520. {Message: Found: Constant "firstTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 46}
+521. {Message: Found: Constant "secondTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 47}
+522. {Message: Found: Constant "firstTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 48}
+523. {Message: Found: Constant "fifteenDaysFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 49}
+524. {Message: Found: Constant "userEmail"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/profile/data/GreenjayProfileRepository.class
+	_Id: 50}
+525. {Message: Found: Constant "preferencesIsFirstSynchronizationFinished"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 51}
+526. {Message: Found: Constant "preferencesDailyFailedSynchronization"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 52}
+527. {Message: Found: Constant "firstAuthentication"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 53}
+528. {Message: Found: Constant "numberReminder"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 54}
+529. {Message: Found: Constant "preferencesDateSynchronizationFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 55}
+530. {Message: Found: Constant "lastFailedTime"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 56}
+531. {Message: Found: Constant "preferencesIsFirstAccessToArticles"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/mycare/data/ArticlesSerializer.class
+	_Id: 57}
+532. {Message: Found: Constant "BloodPressureMode"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/bloodpressure/data/GreenjayBloodPressureRepository.class
+	_Id: 58}
+533. {Message: Found: Constant "preferencesIsFirstAccessToArticles"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/mycare/data/ArticlesSerializer.class
+	_Id: 59}
+534. {Message: Found: Constant "preferencesIsFirstSynchronizationFinished"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 60}
+535. {Message: Found: Constant "firstTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 61}
+536. {Message: Found: Constant "preferencesHasOstomy"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/mycare/data/GreenjayMyCareRepository.class
+	_Id: 62}
+537. {Message: Found: Constant "preferencesIsFirstSynchronizationFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 63}
+538. {Message: Found: Constant "numberReminder"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/md/bloodpressure/data/GreenjayRecurrentReminderRepository.class
+	_Id: 64}
+539. {Message: Found: Constant "temporaryAccessCode"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 66}
+540. {Message: Found: Constant "firstAuthentication"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 67}
+541. {Message: Found: Constant "preferencesAuthenticationStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 68}
+542. {Message: Found: Constant "blockingScreen"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 69}
+543. {Message: Found: Constant "preferencesIsFirstLaunch"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 70}
+544. {Message: Found: Constant "firstTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 71}
+545. {Message: Found: Constant "goToTutorial"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 72}
+546. {Message: Found: Constant "preferencesIsFirstSynchronizationFinished"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 73}
+547. {Message: Found: Constant "firstAuthentication"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/accesscode/data/GreenjayAccessCodeRepository.class
+	_Id: 74}
+548. {Message: Found: Constant "preferencesAuthenticationStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 75}
+549. {Message: Found: Constant "blockingStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 76}
+550. {Message: Found: Constant "secondTimeBp"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 77}
+551. {Message: Found: Constant "preferencesIsFirstSynchronizationFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 78}
+552. {Message: Found: Constant "blockingStatus"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 79}
+553. {Message: Found: Constant "blockingScreen"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/launch/data/GreenjayLaunchRepository.class
+	_Id: 80}
+554. {Message: Found: Constant "preferencesIsFirstSynchronizationFailed"
+	Description: Used constant keys in code
+	_FullPath: com.voluntis.txo.oleena.apk/com/voluntis/txo/nmd/synchronization/data/GreenjaySynchronizationRepository.class
+	_Id: 81}
+555. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/comm/network/b/h.class
+	_Id: 3}
+556. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/ew.class
+	_Id: 9}
+557. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/cc.class
+	_Id: 11}
+558. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/stepcounter/counter/a.class
+	_Id: 12}
+559. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/dm.class
+	_Id: 13}
+560. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/ec.class
+	_Id: 17}
+561. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/a/a.class
+	_Id: 19}
+562. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/gr.class
+	_Id: 20}
+563. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/user/a.class
+	_Id: 22}
+564. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/sleep/ui/sleepscore/gc.class
+	_Id: 23}
+565. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/utils/a.class
+	_Id: 37}
+566. {Message: Found: "SHA-1"
+	Description: Found broken hash functions
+	_FullPath: com.withings.wiscale2.apk/com/withings/comm/a/a.class
+	_Id: 38}
+567. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.withings.wiscale2.apk/com/withings/devicesetup/upgrade/conversation/BluetoothUpgradeConversation.class
+	_Id: 49}
+568. {Message: Found: "SHA1"
+	Description: Found broken hash functions
+	_FullPath: com.withings.wiscale2.apk/com/withings/comm/wpp/a/c.class
+	_Id: 51}
+569. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: com.withings.wiscale2.apk/com/withings/util/ak.class
+	_Id: 52}
+570. {Message: Found: "http://%s/releasenotes/fw/model_%d/%s/%s/index.html"
+	Description: Used HTTP Protocol
+	_FullPath: com.withings.wiscale2.apk/com/withings/wiscale2/device/common/model/k.class
+	_Id: 55}
+571. {Message: Found: "AES/ECB/NoPadding"
+	Description: Found broken crypto schemes
+	_FullPath: dental.beam.beamapp-v.3.16.2.apk/com/beam/app/brushkit/models/a.class
+	_Id: 0}
+572. {Message: Found: "AES"
+	Description: Found broken crypto schemes
+	_FullPath: dental.beam.beamapp.apk/com/beam/app/brushkit/a.class
+	_Id: 0}
+573. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/common/GenericObject.class
+	_Id: 21}
+574. {Message: Found: Untrused PRNG (java.util.Random)
+	Description: Used untrusted PRNG
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 22}
+575. {Message: Found: "MD5"
+	Description: Found broken hash functions
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/network/CryptoUtils.class
+	_Id: 38}
+576. {Message: Found: Constant "https://platform.fatsecret.com/rest/server.api"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 65}
+577. {Message: Found: Constant "method=recipes.search"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 66}
+578. {Message: Found: Constant "method=recipe.get"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 68}
+579. {Message: Found: Constant "max_results=50"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 69}
+580. {Message: Found: Constant "3d4ed80d2ab0423c9151c64c98d9f3df&"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 70}
+581. {Message: Found: Constant "max_results=50"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 71}
+582. {Message: Found: Constant "method=recipes.search"
+	Description: Used constant keys in code
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/log/food/search/FatSecretRestClient.class
+	_Id: 73}
+583. {Message: Found: "http://192.168.101.1"
+	Description: Used HTTP Protocol
+	_FullPath: today.onedrop.android.apk/today/onedrop/android/injection/NetworkModule.class
+	_Id: 106}
